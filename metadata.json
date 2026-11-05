@@ -1,0 +1,6 @@
+{
+  "name": "Ocean 3D Portfolio & CMS",
+  "description": "Interactive 3D ocean voyage sailing portfolio with 4 archipelagos and real-time Admin CMS dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
